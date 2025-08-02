@@ -41,9 +41,7 @@ Custom visuals for salary, country heatmaps, radar plots
 
 
 ## Files
-AI job file.xlsx – Raw dataset used to build this dashboard
-Screenshot.png – Image of the Power BI dashboard
-Power BI .pbix file (optional, can be added if you're uploading it to GitHub)
+Screenshot.png 
 
 ## Future Enhancements (Ideas)
 Add filters for year, location, and skills

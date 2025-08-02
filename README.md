@@ -10,57 +10,44 @@ Top Hiring Country	🇩🇪 Germany
 Remote Work Availability	💻 33% Jobs are Remote
 
 ## Key Visualizations
-Average Salary by Industry
+## Average Salary by Industry
 Bar chart comparing industry-wise average salary (e.g., Consulting, Education, Energy, etc.)
 
-Total Salary by Education Level
+## Total Salary by Education Level
 Donut chart showing the salary distribution across education levels — Bachelor's, Master's, PhD, etc.
 
-Average Salary by Experience Level
+## Average Salary by Experience Level
 Line graph highlighting how salary scales with years of experience (0–20 years)
 
-Average Salary vs Executive Level
+## Average Salary vs Executive Level
 Horizontal bar chart comparing roles from Entry-Level to Senior Executive
 
-Country-wise Job Distribution
+## Country-wise Job Distribution
 World map displaying where AI jobs are most concentrated globally
 
-Top Paying AI Jobs
-Radar chart showcasing high-paying job roles like:
-
+## Top Paying AI Jobs
+# Radar chart showcasing high-paying job roles like:
 AI Architect
-
 Data Scientist
-
 Head of AI
-
 Robotics Engineer
-
 Machine Learning Engineer
 
 ## Tools Used
 Microsoft Power BI
-
 Excel / CSV data processing
-
 Data cleaning & transformation with Power Query
-
 Custom visuals for salary, country heatmaps, radar plots
 
 
 ## Files
 AI job file.xlsx – Raw dataset used to build this dashboard
-
 Screenshot.png – Image of the Power BI dashboard
-
 Power BI .pbix file (optional, can be added if you're uploading it to GitHub)
 
 ## Future Enhancements (Ideas)
 Add filters for year, location, and skills
-
 Predict salaries using ML algorithms
-
 Compare remote vs onsite salary differences
-
 Add tooltips and drill-downs in Power BI
 

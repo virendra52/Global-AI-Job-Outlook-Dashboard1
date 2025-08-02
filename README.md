@@ -26,7 +26,7 @@ Horizontal bar chart comparing roles from Entry-Level to Senior Executive
 World map displaying where AI jobs are most concentrated globally
 
 ## Top Paying AI Jobs
-# Radar chart showcasing high-paying job roles like:
+### Radar chart showcasing high-paying job roles like:
 AI Architect
 Data Scientist
 Head of AI

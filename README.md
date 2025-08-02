@@ -39,10 +39,6 @@ Excel / CSV data processing
 Data cleaning & transformation with Power Query
 Custom visuals for salary, country heatmaps, radar plots
 
-
-## Files
-Screenshot.png 
-
 ## Future Enhancements (Ideas)
 Add filters for year, location, and skills
 Predict salaries using ML algorithms
